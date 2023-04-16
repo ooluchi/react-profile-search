@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-profile-search/static/css/main.5e756c25.css",
+    "main.js": "/react-profile-search/static/js/main.6cc52549.js",
+    "index.html": "/react-profile-search/index.html",
+    "main.5e756c25.css.map": "/react-profile-search/static/css/main.5e756c25.css.map",
+    "main.6cc52549.js.map": "/react-profile-search/static/js/main.6cc52549.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e756c25.css",
+    "static/js/main.6cc52549.js"
+  ]
+}
